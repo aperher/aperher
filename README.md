@@ -21,9 +21,9 @@
 </div>
 
  # Proyectos destacados:
- [![](https://github-readme-stats.vercel.app/api/pin/?username=aperher&repo=android-quotation-shake&bg_color=00000000)](https://github.com/aperher/android-quotation-shake)
- [![](https://github-readme-stats.vercel.app/api/pin/?username=aperher&repo=android-comandas-tfg&bg_color=00000000)](https://github.com/aperher/android-comandas-tfg)
+ [![](https://github-readme-stats.vercel.app/api/pin/?username=aperher&repo=android-quotation-shake&theme=transparent)](https://github.com/aperher/android-quotation-shake)
+ [![](https://github-readme-stats.vercel.app/api/pin/?username=aperher&repo=android-comandas-tfg&theme=transparent)](https://github.com/aperher/android-comandas-tfg)
 
 # Estadísticas:
-![](https://github-readme-stats.vercel.app/api?username=aperher&show_icons=true&bg_color=00000000&custom_title=Estad%C3%ADsticas%20de%20Alberto&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aperher&layout=compact&bg_color=00000000&custom_title=Lenguajes%20m%C3%A1s%20usados)
+![](https://github-readme-stats.vercel.app/api?username=aperher&show_icons=true&theme=transparent&custom_title=Estad%C3%ADsticas%20de%20Alberto&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aperher&layout=compact&theme=transparent&custom_title=Lenguajes%20m%C3%A1s%20usados)
