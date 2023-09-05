@@ -3,10 +3,9 @@
 # Sobre mi:
 - 📲 Mobile developer
 - 📖 Formandome sobre Azure
-- 💻 Comenzando en Jetpack Compose
 - 💬 Preguntame sobre Kotlin, Android, JavaScript
 - 🎓 Trabajo Final de Grado [aplicación Android](https://github.com/aperher/android-comandas-tfg "Comandas Android")
-
+- 💻 Comenzando en Jetpack Compose
 
 # Tecnologías y herramientas:
 <div>
