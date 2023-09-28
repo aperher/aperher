@@ -3,9 +3,7 @@
 # Sobre mi:
 - 📲 Mobile developer
 - 📖 Formandome para AZ-104
-- 💻 Comenzando en Jetpack Compose
-- 💬 Preguntame sobre Kotlin, Android, JavaScript
-- 🎓 Trabajo Final de Grado [aplicación Android](https://github.com/aperher/android-comandas-tfg "Comandas Android")
+- 💬 Preguntame sobre Kotlin, Android, Jetpack Compose o JavaScript
 
 
 # Tecnologías y herramientas:
