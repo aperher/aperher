@@ -2,7 +2,6 @@
 
 # Sobre mi:
 - 📲 Mobile developer
-- 📖 Formandome para AZ-104
 - 💬 Preguntame sobre Kotlin, Android, Jetpack Compose o JavaScript
 
 
